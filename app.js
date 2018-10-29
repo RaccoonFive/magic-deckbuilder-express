@@ -44,10 +44,3 @@ MongoClient.connect(url, { useNewUrlParser: true }, function (err, client) {
     console.log('Example app listening on port 3000!')
   })
 });
-
-
-/*
-
-
-
-*/
